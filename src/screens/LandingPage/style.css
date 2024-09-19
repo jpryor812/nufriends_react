@@ -122,12 +122,38 @@
   width: 75px;
 }
 
+/* Updated busts-in-silhouette section with Figma styles */
+
 .landing-page .busts-in-silhouette {
   height: 68px;
   left: 1124px;
   position: absolute;
   top: 23px;
   width: 65px;
+}
+
+.busts-in-silhouette .overlap-group {
+  height: 51px;
+  left: 2px;
+  position: relative;
+  top: 14px;
+  width: 61px;
+}
+
+.busts-in-silhouette .group {
+  height: 51px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.busts-in-silhouette .vector {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 36px;
 }
 
 .landing-page .robot-final {
