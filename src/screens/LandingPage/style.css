@@ -162,8 +162,6 @@
   position: absolute;
   top: 46px; /* Updated to match Figma's Y: 46 */
   width: 75px;
-  background-image: url(./vector.svg); /* Add the background image */
-  background-size: 100% 100%; /* Ensure the image fits within the element */
 }
 
 .robot-final .group {
